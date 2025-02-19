@@ -1,0 +1,200 @@
+[
+  {
+    "exchange_id": "BINANCE",
+    "website": "https://www.binance.com/",
+    "name": "Binance",
+    "data_trade_start": "2017-07-14T00:00:00.0000000Z",
+    "data_trade_end": "2025-02-05T00:00:00.0000000Z",
+    "volume_1hrs_usd": 305969932.76,
+    "volume_1day_usd": 16192963802.54,
+    "volume_1mth_usd": 594530946374.56,
+    "rank": 2
+  },
+  {
+    "exchange_id": "KRAKEN",
+    "website": "https://www.kraken.com/",
+    "name": "Kraken",
+    "data_trade_start": "2013-10-22T00:00:00.0000000Z",
+    "data_trade_end": "2025-02-05T00:00:00.0000000Z",
+    "volume_1hrs_usd": 18324210.62,
+    "volume_1day_usd": 968186240.29,
+    "volume_1mth_usd": 45496492129.41,
+    "rank": 2
+  },
+  {
+    "exchange_id": "COINBASE",
+    "website": "https://pro.coinbase.com/",
+    "name": "Coinbase Pro (GDAX)",
+    "data_trade_start": "2015-01-14T00:00:00.0000000Z",
+    "data_trade_end": "2025-02-05T00:00:00.0000000Z",
+    "volume_1hrs_usd": 65196948.60,
+    "volume_1day_usd": 2517564461.65,
+    "volume_1mth_usd": 144703656442.29,
+    "rank": 2
+  },
+  {
+    "exchange_id": "BITSTAMP",
+    "website": "https://www.bitstamp.net/",
+    "name": "Bitstamp Ltd.",
+    "data_trade_start": "2011-09-13T00:00:00.0000000Z",
+    "data_trade_end": "2025-02-05T00:00:00.0000000Z",
+    "volume_1hrs_usd": 5237089.95,
+    "volume_1day_usd": 239633079.93,
+    "volume_1mth_usd": 12576960909.03,
+    "rank": 2
+  },
+  {
+    "exchange_id": "GEMINI",
+    "website": "https://gemini.com/",
+    "name": "Gemini",
+    "data_trade_start": "2015-10-08T00:00:00.0000000Z",
+    "data_trade_end": "2025-02-05T00:00:00.0000000Z",
+    "volume_1hrs_usd": 2014777.42,
+    "volume_1day_usd": 86600868.14,
+    "volume_1mth_usd": 4982330123.65,
+    "rank": 2
+  },
+  {
+    "exchange_id": "ECB",
+    "website": "https://www.ecb.europa.eu/",
+    "name": "European Central Bank",
+    "data_trade_start": "2022-06-06T14:00:00.0000000Z",
+    "data_trade_end": "2022-06-10T14:00:00.0000000Z",
+    "volume_1hrs_usd": 0,
+    "volume_1day_usd": 0,
+    "volume_1mth_usd": 0,
+    "rank": 2
+  },
+  {
+    "exchange_id": "LMAXDIGITAL",
+    "website": "https://www.lmaxdigital.com/",
+    "name": "LMAX Digital",
+    "data_trade_start": "2020-12-03T00:00:00.0000000Z",
+    "data_trade_end": "2025-02-05T00:00:00.0000000Z",
+    "volume_1hrs_usd": 1550469.03,
+    "volume_1day_usd": 138099834.75,
+    "volume_1mth_usd": 7185203932.16,
+    "rank": 2
+  },
+  {
+    "exchange_id": "DERIBIT",
+    "website": "https://www.deribit.com/",
+    "name": "Deribit",
+    "data_trade_start": "2016-12-02T00:00:00.0000000Z",
+    "data_trade_end": "2025-02-05T00:00:00.0000000Z",
+    "volume_1hrs_usd": 6268527010878.61,
+    "volume_1day_usd": 552405041228181.72,
+    "volume_1mth_usd": 15541815500126226.64,
+    "rank": 1
+  },
+  {
+    "exchange_id": "OKEX",
+    "website": "https://www.okex.com/",
+    "name": "OKEx",
+    "data_trade_start": "2017-12-01T00:00:00.0000000Z",
+    "data_trade_end": "2025-02-05T00:00:00.0000000Z",
+    "volume_1hrs_usd": 1260066434522.27,
+    "volume_1day_usd": 60105385488635.20,
+    "volume_1mth_usd": 3418240580548548.52,
+    "rank": 1
+  },
+  {
+    "exchange_id": "HITBTC",
+    "website": "https://hitbtc.com/",
+    "name": "HitBTC",
+    "data_trade_start": "2013-12-27T00:00:00.0000000Z",
+    "data_trade_end": "2025-02-05T00:00:00.0000000Z",
+    "volume_1hrs_usd": 7154841.05,
+    "volume_1day_usd": 227720130.66,
+    "volume_1mth_usd": 50781155119.34,
+    "rank": 1
+  },
+  {
+    "exchange_id": "KUCOIN",
+    "website": "https://kucoin.com/",
+    "name": "Kucoin",
+    "data_trade_start": "2018-01-24T00:00:00.0000000Z",
+    "data_trade_end": "2025-02-05T00:00:00.0000000Z",
+    "volume_1hrs_usd": 23244320.64,
+    "volume_1day_usd": 943471941.08,
+    "volume_1mth_usd": 48029060059.74,
+    "rank": 1
+  },
+  {
+    "exchange_id": "HUOBIPRO",
+    "website": "https://www.hbg.com/",
+    "name": "Huobi Global",
+    "data_trade_start": "2018-01-22T00:00:00.0000000Z",
+    "data_trade_end": "2025-02-05T00:00:00.0000000Z",
+    "volume_1hrs_usd": 83608422.66,
+    "volume_1day_usd": 2057624610.89,
+    "volume_1mth_usd": 68170472506.49,
+    "rank": 1
+  },
+  {
+    "exchange_id": "BITTREX",
+    "website": "https://bittrex.com/",
+    "name": "Bittrex",
+    "data_trade_start": "2017-01-26T00:00:00.0000000Z",
+    "data_trade_end": "2024-01-01T00:00:00.0000000Z",
+    "volume_1hrs_usd": 0,
+    "volume_1day_usd": 0,
+    "volume_1mth_usd": 0,
+    "rank": 1
+  },
+  {
+    "exchange_id": "POLONIEX",
+    "website": "https://poloniex.com/",
+    "name": "POLONIEX",
+    "data_trade_start": "2016-05-29T00:00:00.0000000Z",
+    "data_trade_end": "2025-02-05T00:00:00.0000000Z",
+    "volume_1hrs_usd": 29208717.30,
+    "volume_1day_usd": 720575386.86,
+    "volume_1mth_usd": 29187114374.40,
+    "rank": 1
+  },
+  {
+    "exchange_id": "BITFINEX",
+    "website": "https://www.bitfinex.com/",
+    "name": "Bitfinex",
+    "data_trade_start": "2013-01-14T00:00:00.0000000Z",
+    "data_trade_end": "2025-02-05T00:00:00.0000000Z",
+    "volume_1hrs_usd": 10358577.44,
+    "volume_1day_usd": 346928119.62,
+    "volume_1mth_usd": 19139984005.25,
+    "rank": 1
+  },
+  {
+    "exchange_id": "HUOBI",
+    "website": "https://www.huobi.us/",
+    "name": "Huobi (HBUS)",
+    "data_trade_start": "2015-03-29T00:00:00.0000000Z",
+    "data_trade_end": "2019-12-17T00:23:43.4240000Z",
+    "volume_1hrs_usd": 0,
+    "volume_1day_usd": 0,
+    "volume_1mth_usd": 0,
+    "rank": 1
+  },
+  {
+    "exchange_id": "UPBIT",
+    "website": "https://upbit.com/",
+    "name": "UPbit Korea",
+    "data_trade_start": "2018-08-20T00:00:00.0000000Z",
+    "data_trade_end": "2025-02-05T00:00:00.0000000Z",
+    "volume_1hrs_usd": 165223.23,
+    "volume_1day_usd": 7793461.46,
+    "volume_1mth_usd": 250186296.44,
+    "rank": 1
+  },
+  {
+    "exchange_id": "BITMEX",
+    "website": "https://www.bitmex.com/",
+    "name": "BitMEX",
+    "data_trade_start": "2014-11-22T00:00:00.0000000Z",
+    "data_trade_end": "2025-02-05T00:00:00.0000000Z",
+    "volume_1hrs_usd": 532435712440.43,
+    "volume_1day_usd": 27858309843278.26,
+    "volume_1mth_usd": 1518562865389261.15,
+    "rank": 1
+  }
+]

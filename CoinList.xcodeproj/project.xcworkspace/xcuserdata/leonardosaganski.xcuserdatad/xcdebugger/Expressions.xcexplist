@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ServiceMock.get&lt;[CoinListTests.Exchange]&gt;(strUrl:):ServiceMock.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Constants.urlMock[strUrl]">
+            </PersistentString>
+            <PersistentString
+               value = "Constants.URL.listExchanges">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ExchangeListViewModel.fetchExchanges():ExchangeListViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "error.localizedDescription">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "JSONHelper.readJSONFile(name:):JSONHelper.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Bundle.main.path(forResource: &quot;ExchangeMock&quot;, ofType: &quot;json&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in CoinListTests.testFetchExchanges():CoinListTests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.exchangeList.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ErrorBanner.showError(_:):ErrorBanner.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "background.bounds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ExchangeListViewController.tableView(_:numberOfRowsInSection:):ExchangeListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.exchangeList.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
